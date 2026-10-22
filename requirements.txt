@@ -1,0 +1,6 @@
+Django>=5.0
+aiogram>=3.7
+python-dotenv>=1.0
+requests>=2.31
+anthropic>=0.40
+aiohttp>=3.9
